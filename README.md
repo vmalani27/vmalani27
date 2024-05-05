@@ -1,0 +1,6 @@
+- Hi, I’m @vmalani27
+- I’m interested in machine learning and robotics
+- I’m currently learning Web Development
+- I’m looking to collaborate on Open Source Projects
+- How to reach me vanshmalani9@gmail.com / vanshmalani27@gmail.com
+- Fun fact: i built my first computer when i was 15 years old
